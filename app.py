@@ -79,7 +79,7 @@ fig.update_layout(
     hovermode='x unified',
     template='plotly_white',
     legend=dict(y=0.99, x=0.01),
-    margin=dict(t=60, l=60, r=40, b=60),
+    margin=dict(t=10, l=10, r=10, b=10),
     height=600
 )
 
